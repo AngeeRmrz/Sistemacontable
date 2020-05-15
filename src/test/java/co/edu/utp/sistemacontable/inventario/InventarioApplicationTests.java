@@ -1,10 +1,10 @@
-package co.edu.utpsistemacontable.contabilidad;
+package co.edu.utp.sistemacontable.inventario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ContabilidadApplicationTests {
+class InventarioApplicationTests {
 
 	@Test
 	void contextLoads() {
